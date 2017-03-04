@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.sun.swing.internal.plaf.basic.resources.basic"/>
+<fullyQualifiedTypeName name="java.security.SecurityPermission"/>
+<fullyQualifiedTypeName name="org.jointheleague.graphical.robot.Robot"/>
+<fullyQualifiedTypeName name="RobotSquare"/>
+<fullyQualifiedTypeName name="java.util.concurrent.ForkJoinPool.ForkJoinWorkerThreadFactory"/>
+<fullyQualifiedTypeName name="ForLoops"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+</qualifiedTypeNameHistroy>
